@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>312480396113-8pgjogk2o60vai7oea1jpksn2mf8gd2o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.312480396113-8pgjogk2o60vai7oea1jpksn2mf8gd2o</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>312480396113-4i5dqq5nts4m35gi7h54nu8giqm6t03l.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDz8Ub_RDTzMr2q26NftUFN-3P3Gct_VVw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>312480396113</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rafael.umenoki</string>
+	<key>PROJECT_ID</key>
+	<string>rafaelumenoki</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rafaelumenoki.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:312480396113:ios:3df657b9a12c6fbe9d5970</string>
+	<key>DATABASE_URL</key>
+	<string>https://rafaelumenoki.firebaseio.com</string>
+</dict>
+</plist>
